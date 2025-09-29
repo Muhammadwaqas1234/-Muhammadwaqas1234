@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Muhammad Waqas  
 
-💻 **Full-Stack Developer | DevOps Engineer | AI Enthusiast**  
-Passionate about building modern applications, leveraging AI, and mastering DevOps tools to deliver scalable solutions.  
+🚀 **DevOps Engineer | Cloud Practitioner | AI Enthusiast**  
+Passionate about **automation, cloud computing, and CI/CD pipelines**, with hands-on experience in Docker, Kubernetes, and AWS.  
 
 ---
 
@@ -10,50 +10,39 @@ Passionate about building modern applications, leveraging AI, and mastering DevO
 - 🎓 **MS in Artificial Intelligence**  
 - 🏅 Completed **DevOps Bootcamp (LearnEasy.pk)**  
 - 🧠 Learned **AI from Xeven Solutions Course (YouTube)**  
-- ☁️ Completed **AWS Cloud Practitioner (CLF-C02)**  
+- ☁️ **AWS Certified Cloud Practitioner (CLF-C02)**  
 
 ---
 
-## 🧑‍💻 About Me
-- 🔭 Currently building a **School Management System (MERN)**  
-- 🌱 Exploring **Docker, Kubernetes, and AWS Cloud**  
-- 📝 Sharing knowledge through projects & blogs  
-- 🎯 Goal: Become a **top expert in Web Development & DevOps**  
-- ⚡ Fun fact: I enjoy cricket 🏏, football ⚽, and discovering new tech trends  
+## 🛠️ DevOps & Cloud Skills
 
----
-
-## 🛠️ Skills & Tools  
-
-**Languages**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)  
-
-**Frontend**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/-Next.js-black?logo=nextdotjs)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)  
-
-**Backend & Databases**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/-Express.js-grey?logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
-
-**DevOps & Cloud**  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)  
+**Containers & Orchestration**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
+![Helm](https://img.shields.io/badge/-Helm-0F1689?logo=helm&logoColor=white)  
+
+**Cloud & Infrastructure**  
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=black)  
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  
+
+**CI/CD & Automation**  
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)  
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white)  
+
+**Monitoring & Tools**  
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)  
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)  
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)  
 
 ---
 
-## 📂 Featured Projects
-- 🏫 [School Management System (MERN)](https://github.com/your-repo) – Full CRUD with Admin & Student dashboards  
-- 📰 [AI Blogging Platform](https://github.com/your-repo) – Write & generate blogs with AI  
-- 🛒 [Marketplace for Sellers](https://github.com/your-repo) – Secure product marketplace with seller dashboards  
+## 📂 Featured DevOps Projects
+- 🛠️ **CI/CD Pipeline with GitHub Actions** → Automated deployment for a MERN app  
+- ☁️ **AWS Infrastructure Setup** → Hosted web app on EC2, S3, and RDS with Terraform  
+- 🐳 **Dockerized School Management System** → Containerized MERN stack application  
+- 📊 **Monitoring Stack** → Prometheus + Grafana setup for server & app monitoring  
 
 ---
 
@@ -72,4 +61,4 @@ Passionate about building modern applications, leveraging AI, and mastering DevO
 
 ---
 
-⭐ *“Code. Learn. Share. Repeat.”*
+⭐ *“Automate Everything. Scale Everywhere.”*
