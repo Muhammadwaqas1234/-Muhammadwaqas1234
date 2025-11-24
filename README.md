@@ -3,7 +3,6 @@
 ### **AI Engineer | ML Researcher | Agentic AI Developer**
 
 <div align="center">
-  <img src="https://i.ibb.co/4P0qSVg/ai-banner-dark.png" width="100%" alt="Banner"/>
 </div>
 
 <br>
@@ -105,7 +104,6 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Muhammadwaqas1234\&show_icons=true\&theme=tokyonight\&hide_border=true)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadwaqas1234\&layout=compact\&theme=tokyonight\&hide_border=true)
-![Streak](https://streak-stats.demolab.com?user=Muhammadwaqas1234\&theme=tokyonight\&hide_border=true)
 
 </div>
 
