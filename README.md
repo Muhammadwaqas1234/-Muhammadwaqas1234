@@ -1,5 +1,4 @@
 # 🌌 **Muhammad Waqas**
-
 ### **AI Engineer | ML Researcher | Agentic AI Developer**
 
 <div align="center">
