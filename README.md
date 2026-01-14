@@ -110,7 +110,7 @@
 
 ## 🌐 Connect With Me
 
-* 🌍 Portfolio: **scai.co**
+* 🌍 Portfolio: **In Progress**
 * 💼 LinkedIn: linkedin.com/in/muhammad-waqas-111a68212
 * 📧 Email: [raiwaqasabid@gmail.com](mailto:raiwaqasabid@gmail.com)
 
